@@ -37,13 +37,13 @@ global.sdc = 'https://chat.whatsapp.com/D71CKTjDBgkBYmaNZuUmcG' //discord
 global.snh = 'https://chat.whatsapp.com/D71CKTjDBgkBYmaNZuUmcG' // my youtube channel
 
 /*============== PAYMENT ==============*/
-global.pdana = '081807254833' //dana
-global.povo = '081807254833' //ovo
-global.pgopay = '081807254833' //gopay
-global.plinkaja = '081807254833' //link aja
-global.ppulsa = '081807254833' //telkomsel
-global.ppulsa2 = '081807254833' // kalau ada kartu lain isi aja
-global.psaweria = '081807254833'
+global.pdana = 'gd' //dana
+global.povo = '08953193q590' //ovo
+global.pgopay = '087784997743' //gopay
+global.plinkaja = '087784997743' //link aja
+global.ppulsa = '089531931590' //Three
+global.ppulsa2 = '087784997743' //XL
+global.psaweria = 'gd'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '6287784997743'
